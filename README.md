@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+
 
 <h1 align="center">Hi 👋, I'm Sandani Madampage</h1>
 <h3 align="center">I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills. I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. I have an active and dynamic approach to work and getting things done. I am determined and decisive towards the every task that I got.</h3>
