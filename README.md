@@ -9,7 +9,7 @@
 
 <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage"  align="right" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" style="width: 400px; display: block; opacity: 1;">
 
-- 🌱 I’m currently learning **Bachelor of science in Software Engineering 2 nd year student and Bachelor of science in Applied Science(Physical Science) 1 st year Student in University of Rajarata Sri Lanka.**
+- 🌱 I’m currently learning **Bachelor of science in Software Engineering 2 nd year student and Bachelor of science in Physics and Electronics 2nd year Student in University of Kelaniya Sri Lanka.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/posts/activity-6935610209839022081-8cmv?utm_source=linkedin_share&utm_medium=member_desktop_web](https://www.linkedin.com/posts/activity-6935610209839022081-8cmv?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
